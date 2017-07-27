@@ -1,0 +1,1 @@
+This page uses an API for showing the weather informations.Made for freecodecamp.com
